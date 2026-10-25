@@ -1,0 +1,11 @@
+leads.db
+leads.db-journal
+leads.db-wal
+leads.db-shm
+leads.db.snapshot
+leads.db.restore
+leads.db.source
+.agent_id
+__pycache__/
+*.pyc
+logs/pilot_stdout.txt

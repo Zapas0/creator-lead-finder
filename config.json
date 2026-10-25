@@ -1,0 +1,545 @@
+{
+  "api_key": "",
+  "active_niches": "all",
+  "niches": {
+    "gaming": {
+      "search": [
+        "minecraft",
+        "roblox",
+        "fortnite",
+        "gaming commentary",
+        "indie game review",
+        "call of duty",
+        "valorant",
+        "gta",
+        "pokemon",
+        "horror game"
+      ],
+      "topics": [
+        "Video_game_culture",
+        "Action_game",
+        "Action-adventure_game",
+        "Casual_game",
+        "Puzzle_video_game",
+        "Racing_video_game",
+        "Role-playing_video_game",
+        "Simulation_video_game",
+        "Sports_game",
+        "Strategy_video_game",
+        "Music_video_game"
+      ],
+      "words": [
+        "gaming",
+        "gameplay",
+        "let's play",
+        "minecraft",
+        "roblox",
+        "fortnite",
+        "gamer"
+      ]
+    },
+    "finance": {
+      "search": [
+        "personal finance",
+        "investing for beginners",
+        "stock market",
+        "real estate investing",
+        "side hustle",
+        "make money online",
+        "small business tips",
+        "crypto"
+      ],
+      "topics": [
+        "Business"
+      ],
+      "words": [
+        "finance",
+        "investing",
+        "money",
+        "stocks",
+        "real estate",
+        "business",
+        "crypto",
+        "wealth"
+      ]
+    },
+    "tech": {
+      "search": [
+        "tech review",
+        "smartphone review",
+        "pc build",
+        "ai tools",
+        "productivity apps"
+      ],
+      "topics": [
+        "Technology"
+      ],
+      "words": [
+        "tech",
+        "technology",
+        "gadget",
+        "pc build",
+        "software",
+        "ai tools"
+      ]
+    },
+    "true_crime_mystery": {
+      "search": [
+        "true crime",
+        "horror stories",
+        "unsolved mysteries",
+        "paranormal",
+        "scary stories"
+      ],
+      "topics": [],
+      "words": [
+        "true crime",
+        "murder",
+        "mystery",
+        "unsolved",
+        "paranormal",
+        "horror",
+        "scary",
+        "creepy"
+      ]
+    },
+    "education": {
+      "search": [
+        "history documentary",
+        "science explained",
+        "language learning",
+        "geography facts",
+        "psychology"
+      ],
+      "topics": [
+        "Knowledge"
+      ],
+      "words": [
+        "history",
+        "science",
+        "documentary",
+        "explained",
+        "learn",
+        "education",
+        "facts"
+      ]
+    },
+    "self_improvement": {
+      "search": [
+        "self improvement",
+        "productivity tips",
+        "motivation",
+        "study with me",
+        "minimalism"
+      ],
+      "topics": [],
+      "words": [
+        "self improvement",
+        "productivity",
+        "motivation",
+        "mindset",
+        "habits",
+        "discipline"
+      ]
+    },
+    "fitness": {
+      "search": [
+        "fitness workout",
+        "bodybuilding",
+        "weight loss journey",
+        "calisthenics",
+        "running"
+      ],
+      "topics": [
+        "Physical_fitness",
+        "Health"
+      ],
+      "words": [
+        "fitness",
+        "workout",
+        "gym",
+        "bodybuilding",
+        "training",
+        "calisthenics",
+        "running"
+      ]
+    },
+    "food": {
+      "search": [
+        "cooking recipes",
+        "easy dinner recipes",
+        "baking",
+        "bbq",
+        "food review"
+      ],
+      "topics": [
+        "Food"
+      ],
+      "words": [
+        "cooking",
+        "recipe",
+        "recipes",
+        "kitchen",
+        "baking",
+        "bbq",
+        "chef",
+        "food"
+      ]
+    },
+    "travel": {
+      "search": [
+        "budget travel",
+        "travel vlog",
+        "van life",
+        "rv living",
+        "solo travel"
+      ],
+      "topics": [
+        "Tourism"
+      ],
+      "words": [
+        "travel",
+        "van life",
+        "vanlife",
+        "rv",
+        "nomad",
+        "adventure",
+        "trip"
+      ]
+    },
+    "outdoors": {
+      "search": [
+        "camping",
+        "fishing",
+        "hunting",
+        "hiking",
+        "bushcraft"
+      ],
+      "topics": [],
+      "words": [
+        "camping",
+        "fishing",
+        "hunting",
+        "hiking",
+        "bushcraft",
+        "outdoors",
+        "survival",
+        "overlanding"
+      ]
+    },
+    "cars": {
+      "search": [
+        "car review",
+        "car restoration",
+        "car detailing",
+        "motorcycle vlog",
+        "project car"
+      ],
+      "topics": [
+        "Vehicle",
+        "Motorsport"
+      ],
+      "words": [
+        "car",
+        "cars",
+        "auto",
+        "garage",
+        "restoration",
+        "motorcycle",
+        "truck",
+        "detailing"
+      ]
+    },
+    "diy_home": {
+      "search": [
+        "diy home renovation",
+        "woodworking",
+        "gardening",
+        "homesteading",
+        "tiny house"
+      ],
+      "topics": [],
+      "words": [
+        "diy",
+        "woodworking",
+        "renovation",
+        "garden",
+        "gardening",
+        "homestead",
+        "build",
+        "tiny house"
+      ]
+    },
+    "creative": {
+      "search": [
+        "drawing tutorial",
+        "music production",
+        "photography tips",
+        "animation",
+        "video editing tutorial"
+      ],
+      "topics": [
+        "Music"
+      ],
+      "words": [
+        "art",
+        "drawing",
+        "painting",
+        "music production",
+        "photography",
+        "animation",
+        "editing"
+      ]
+    },
+    "entertainment": {
+      "search": [
+        "movie review",
+        "anime review",
+        "commentary drama",
+        "reaction video",
+        "comedy sketch"
+      ],
+      "topics": [
+        "Film",
+        "Television_program",
+        "Humour",
+        "Entertainment"
+      ],
+      "words": [
+        "movie",
+        "film",
+        "anime",
+        "commentary",
+        "reaction",
+        "comedy",
+        "review"
+      ]
+    },
+    "sports": {
+      "search": [
+        "sports analysis",
+        "nba analysis",
+        "nfl breakdown",
+        "soccer analysis",
+        "golf tips"
+      ],
+      "topics": [
+        "Sport",
+        "Association_football",
+        "American_football",
+        "Basketball",
+        "Baseball",
+        "Boxing",
+        "Golf",
+        "Ice_hockey",
+        "Mixed_martial_arts",
+        "Tennis",
+        "Professional_wrestling"
+      ],
+      "words": [
+        "sports",
+        "nba",
+        "nfl",
+        "soccer",
+        "football",
+        "basketball",
+        "golf",
+        "mma",
+        "boxing"
+      ]
+    },
+    "podcasts": {
+      "search": [
+        "podcast",
+        "interview podcast",
+        "comedy podcast"
+      ],
+      "topics": [],
+      "words": [
+        "podcast",
+        "episode",
+        "interview"
+      ]
+    },
+    "beauty_fashion": {
+      "search": [
+        "makeup tutorial",
+        "skincare routine",
+        "fashion haul",
+        "hair tutorial"
+      ],
+      "topics": [
+        "Fashion",
+        "Physical_attractiveness"
+      ],
+      "words": [
+        "makeup",
+        "skincare",
+        "beauty",
+        "fashion",
+        "hair",
+        "outfit"
+      ]
+    },
+    "pets": {
+      "search": [
+        "dog training",
+        "cat vlog",
+        "aquarium",
+        "reptiles"
+      ],
+      "topics": [
+        "Pet"
+      ],
+      "words": [
+        "dog",
+        "dogs",
+        "cat",
+        "cats",
+        "puppy",
+        "pets",
+        "aquarium",
+        "reptile"
+      ]
+    }
+  },
+  "video_durations": [
+    "medium",
+    "long"
+  ],
+  "max_pages_per_query": 6,
+  "daily_search_budget": 98,
+  "daily_unit_budget": 9800,
+  "search_lookback_days": 60,
+  "resweep_after_hours": 24,
+  "relevance_language": "en",
+  "region_code": "",
+  "min_subscribers": 1000,
+  "max_subscribers": 250000,
+  "min_total_videos": 20,
+  "countries": [
+    "US",
+    "CA",
+    "GB",
+    "IE",
+    "AT",
+    "BE",
+    "BG",
+    "HR",
+    "CY",
+    "CZ",
+    "DK",
+    "EE",
+    "FI",
+    "FR",
+    "DE",
+    "GR",
+    "HU",
+    "IT",
+    "LV",
+    "LT",
+    "LU",
+    "MT",
+    "NL",
+    "PL",
+    "PT",
+    "RO",
+    "SK",
+    "SI",
+    "ES",
+    "SE",
+    "NO",
+    "IS",
+    "LI",
+    "CH"
+  ],
+  "allow_unknown_country": true,
+  "min_long_uploads_30d": 2,
+  "long_form_min_seconds": 181,
+  "videos_to_scan": 50,
+  "deep_scan_videos": 200,
+  "guess_site_from_videos": true,
+  "max_site_pages": 5,
+  "daily_reveal_target": 15,
+  "review_port": 8765,
+  "snowball": true,
+  "snowball_sources_per_round": 30,
+  "fetch_websites": true,
+  "website_workers": 8,
+  "website_timeout_seconds": 10,
+  "user_agent": "Mozilla/5.0 (compatible; CreatorLeadFinder/1.0)",
+  "retention_days": 30,
+  "output_dir": "output",
+  "db_path": "leads.db",
+  "state_file": "state/leads.db.gz",
+  "target_emails": 100000,
+  "suppression_file": "suppress.txt",
+  "reveals_file": "reveals.csv",
+  "skip_link_domains": [
+    "youtube.com",
+    "youtu.be",
+    "google.com",
+    "goo.gl",
+    "instagram.com",
+    "tiktok.com",
+    "twitter.com",
+    "x.com",
+    "facebook.com",
+    "fb.com",
+    "fb.me",
+    "threads.net",
+    "snapchat.com",
+    "reddit.com",
+    "discord.gg",
+    "discord.com",
+    "twitch.tv",
+    "kick.com",
+    "patreon.com",
+    "ko-fi.com",
+    "buymeacoffee.com",
+    "paypal.com",
+    "paypal.me",
+    "venmo.com",
+    "cash.app",
+    "linktr.ee",
+    "linktree.com",
+    "beacons.ai",
+    "stan.store",
+    "bio.link",
+    "lnk.bio",
+    "campsite.bio",
+    "msha.ke",
+    "amazon.com",
+    "amzn.to",
+    "a.co",
+    "bit.ly",
+    "tinyurl.com",
+    "ow.ly",
+    "t.co",
+    "geni.us",
+    "spotify.com",
+    "apple.com",
+    "soundcloud.com",
+    "linkedin.com",
+    "pinterest.com",
+    "tumblr.com",
+    "medium.com",
+    "substack.com",
+    "gofundme.com",
+    "teespring.com",
+    "creator-spring.com",
+    "fourthwall.com",
+    "streamlabs.com",
+    "streamelements.com",
+    "epidemicsound.com",
+    "skillshare.com",
+    "squarespace.com",
+    "audible.com",
+    "wa.me",
+    "t.me",
+    "telegram.me",
+    "gmail.com",
+    "nordvpn.com",
+    "expressvpn.com"
+  ]
+}

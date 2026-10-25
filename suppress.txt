@@ -1,0 +1,1 @@
+# One email or @domain per line. These are never output (opt-outs, bounces, clients).
