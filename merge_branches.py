@@ -96,7 +96,58 @@ def merge_all(db_path, state_rel="state/leads.db.gz"):
                         with open(dest, "wb") as f:
                             f.write(data)
                         report.append(f"log copied: {os.path.basename(dest)}")
+    report += merge_outputs()
     return report
+
+
+def merge_outputs():
+    """Copy other branches' dated daily files (emails_/to_reveal_/leads_/manual_check_) and
+    progress.csv rows into output/. A name clash (same day on two branches) keeps both:
+    the copy is named <file>.<branch>.csv."""
+    import csv
+    import re
+    rep = []
+    out = os.path.join(HERE, "output")
+    os.makedirs(out, exist_ok=True)
+    dated = re.compile(r"^(emails|to_reveal|leads|manual_check)_\d{4}-\d{2}-\d{2}.*\.csv$")
+    pf = os.path.join(out, "progress.csv")
+    rows, fields = {}, None
+    if os.path.exists(pf):
+        with open(pf, newline="", encoding="utf-8") as f:
+            rd = csv.DictReader(f)
+            fields = rd.fieldnames
+            for r in rd:
+                rows[r["quota_day"]] = r
+    for ref in remote_branches():
+        tag = ref.split("-")[-1]
+        for n in git("ls-tree", "--name-only", ref, "output/").stdout.decode().split():
+            b = os.path.basename(n)
+            if dated.match(b):
+                data = git("show", f"{ref}:{n}").stdout
+                dest = os.path.join(out, b)
+                if os.path.exists(dest):
+                    if open(dest, "rb").read() == data:
+                        continue
+                    dest = os.path.join(out, b[:-4] + f".{tag}.csv")
+                if data and not os.path.exists(dest):
+                    open(dest, "wb").write(data)
+                    rep.append(f"output copied: {os.path.basename(dest)}")
+        pr = git("show", f"{ref}:output/progress.csv")
+        if pr.returncode == 0 and pr.stdout:
+            import io
+            rd = csv.DictReader(io.StringIO(pr.stdout.decode("utf-8-sig")))
+            fields = fields or rd.fieldnames
+            for r in rd:
+                cur = rows.get(r["quota_day"])
+                if cur is None:
+                    rows[r["quota_day"]] = r
+                    rep.append(f"progress row added: {r['quota_day']} ({tag})")
+    if rows and fields:
+        with open(pf, "w", newline="", encoding="utf-8") as f:
+            w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+            w.writeheader()
+            w.writerows(sorted(rows.values(), key=lambda r: r["quota_day"]))
+    return rep
 
 
 if __name__ == "__main__":
