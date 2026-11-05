@@ -1,3 +1,7 @@
 quota_day,emails_total,channels_checked_total,channels_checked_today,leads_total,new_leads_today,manual_waiting,searches_used,units_used,search_results_new_pct,status
+2026-10-29,374,7646,6462,374,374,611,98,6894,95,crashed
+2026-10-30,519,12972,12972,519,519,775,98,9800,96,ok
+2026-11-02,1140,21869,8897,1140,621,1637,98,9800,96,ok
+2026-11-03,553,11609,11609,553,553,815,98,9800,96,ok
 2026-11-04,181,2892,2892,181,181,335,98,3676,96,api_error
 2026-11-05,812,9156,6264,812,812,1312,98,9800,95,ok
