@@ -198,6 +198,15 @@ def main():
         return 4
     print(f"Lock taken by {me} for quota day {day}. Running daily.py (usually 40-70 minutes)...", flush=True)
     os.makedirs(os.path.join(HERE, "logs"), exist_ok=True)
+    # fold the work of every other remote branch into this database before the run (owner's
+    # request); a failure here must never block the run itself
+    try:
+        import merge_branches
+        cfg = cl.load_config(os.path.join(HERE, "config.json"))
+        cl.sync_from_state(cfg)
+        print("Merged other branches:\n  " + "\n  ".join(merge_branches.merge_all(cfg["db_path"])), flush=True)
+    except Exception as e:  # noqa: BLE001
+        print(f"MERGE WARNING (run continues without it): {e}", flush=True)
     proc = subprocess.run([sys.executable, "-u", os.path.join(HERE, "daily.py")], cwd=HERE,
                           capture_output=True, text=True)
     out = (proc.stdout or "") + (proc.stderr or "")
