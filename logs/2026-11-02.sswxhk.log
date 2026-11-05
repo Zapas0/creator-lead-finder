@@ -1,0 +1,43 @@
+
+===== run started 2026-11-03 04:25 UTC =====
+Database: local leads.db is up to date with the state file
+Niches: gaming, finance, tech, true_crime_mystery, education, self_improvement, fitness, food, travel, outdoors, cars, diy_home, creative, entertainment, sports, podcasts, beauty_fashion, pets
+Quota day 2026-11-02: already used 0/98 searches and 0/9800 units. This run may use 98 searches, 9800 units.
+
+Searching (98 searches)...
+  search   1: 'minecraft' (medium, newest) -> 48/48 new | 48 new so far
+  search   2: 'minecraft' (long, newest) -> 48/49 new | 96 new so far
+  search   3: 'roblox' (medium, newest) -> 44/44 new | 140 new so far
+  search   4: 'roblox' (long, newest) -> 39/46 new | 179 new so far
+  search   5: 'fortnite' (medium, newest) -> 47/47 new | 226 new so far
+  search   6: 'fortnite' (long, newest) -> 45/47 new | 271 new so far
+  search   7: 'gaming commentary' (medium, newest) -> 49/49 new | 320 new so far
+  search   8: 'gaming commentary' (long, newest) -> 39/41 new | 359 new so far
+  search   9: 'indie game review' (medium, newest) -> 43/43 new | 402 new so far
+  search  10: 'indie game review' (long, newest) -> 46/46 new | 448 new so far
+  search  11: 'call of duty' (medium, newest) -> 46/46 new | 494 new so far
+  search  12: 'call of duty' (long, newest) -> 41/44 new | 535 new so far
+  search  13: 'valorant' (medium, newest) -> 46/46 new | 581 new so far
+  search stopped: YouTube says today's search quota is used up
+  581 of 596 channels in the results were new (97%)
+  581 new channels queued
+
+Checking 581 channels...
+  50/581 checked | qualified 8 | leads 2 | API units 47
+  100/581 checked | qualified 16 | leads 5 | API units 92
+  150/581 checked | qualified 20 | leads 6 | API units 119
+  stopped early: YouTube says today's unit quota is used up. Unchecked channels stay queued for the next run.
+
+Visiting 1 creator websites...
+
+============================================================
+Done in 0.8 min | this run: 14 searches, 130 units | today: 98/98 searches, 9800/9800 units
+Channels qualified: 21 | rejected: 138 | deep-scanned: 15
+New leads with email: 6 | new manual-check channels: 15
+In the 30-day window: 6 leads, 15 manual-check channels
+  -> /home/user/creator-lead-finder/output/leads_2026-11-03_0425.csv
+  -> /home/user/creator-lead-finder/output/manual_check_2026-11-03_0425.csv
+  -> /home/user/creator-lead-finder/output/all_leads.csv
+
+15 channels wait for a manual reveal. Start the helper with:
+  python3 creator_leads.py --review

@@ -80,6 +80,15 @@ Before sending, check the two files: no empty or unusable emails, no email or ch
 repeated inside a file, and no channel in both files. Any duplicate is a bug in
 `write_daily_files` (daily.py): fix it there, never by editing the files.
 
+## Merging other branches (owner's standing instruction)
+
+Scheduled sessions each push to their own branch and never merge. So that no run starts from
+an incomplete database, `pilot.py run` calls `merge_branches.py` after taking the lock: it
+fetches every other `origin/*` branch, unions their `state/leads.db.gz` into `leads.db`
+(leads de-duplicated by email; checked, manual, exported, delivered, snowball tables
+INSERT OR IGNORE; `meta` not merged) and copies their dated logs to `logs/<day>.<branch>.log`.
+It is idempotent. `python3 merge_branches.py` runs it by hand (only the lock holder should).
+
 ## Working in parallel with other agents
 
 Several agents may work on this repo at the same time. The rules that keep that safe:

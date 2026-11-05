@@ -1,0 +1,172 @@
+
+===== run started 2026-11-05 04:26 UTC =====
+Database: local leads.db is up to date with the state file
+Niches: gaming, finance, tech, true_crime_mystery, education, self_improvement, fitness, food, travel, outdoors, cars, diy_home, creative, entertainment, sports, podcasts, beauty_fashion, pets
+Quota day 2026-11-04: already used 0/98 searches and 0/9800 units. This run may use 98 searches, 9800 units.
+
+Searching (98 searches)...
+  search   1: 'minecraft' (medium, newest) -> 49/49 new | 49 new so far
+  search   2: 'minecraft' (long, newest) -> 48/49 new | 97 new so far
+  search   3: 'roblox' (medium, newest) -> 45/45 new | 142 new so far
+  search   4: 'roblox' (long, newest) -> 44/48 new | 186 new so far
+  search   5: 'fortnite' (medium, newest) -> 42/42 new | 228 new so far
+  search   6: 'fortnite' (long, newest) -> 45/47 new | 273 new so far
+  search   7: 'gaming commentary' (medium, newest) -> 47/47 new | 320 new so far
+  search   8: 'gaming commentary' (long, newest) -> 39/40 new | 359 new so far
+  search   9: 'indie game review' (medium, newest) -> 49/49 new | 408 new so far
+  search  10: 'indie game review' (long, newest) -> 44/45 new | 452 new so far
+  search  11: 'call of duty' (medium, newest) -> 43/43 new | 495 new so far
+  search  12: 'call of duty' (long, newest) -> 41/44 new | 536 new so far
+  search  13: 'valorant' (medium, newest) -> 44/44 new | 580 new so far
+  search  14: 'valorant' (long, newest) -> 46/48 new | 626 new so far
+  search  15: 'gta' (medium, newest) -> 43/43 new | 669 new so far
+  search  16: 'gta' (long, newest) -> 38/40 new | 707 new so far
+  search  17: 'pokemon' (medium, newest) -> 48/48 new | 755 new so far
+  search  18: 'pokemon' (long, newest) -> 44/46 new | 799 new so far
+  search  19: 'horror game' (medium, newest) -> 46/46 new | 845 new so far
+  search  20: 'horror game' (long, newest) -> 40/42 new | 885 new so far
+  search  21: 'personal finance' (medium, newest) -> 49/49 new | 934 new so far
+  search  22: 'personal finance' (long, newest) -> 45/45 new | 979 new so far
+  search  23: 'investing for beginners' (medium, newest) -> 49/50 new | 1028 new so far
+  search  24: 'investing for beginners' (long, newest) -> 47/47 new | 1075 new so far
+  search  25: 'stock market' (medium, newest) -> 37/39 new | 1112 new so far
+  search  26: 'stock market' (long, newest) -> 27/33 new | 1139 new so far
+  search  27: 'real estate investing' (medium, newest) -> 47/49 new | 1186 new so far
+  search  28: 'real estate investing' (long, newest) -> 47/48 new | 1233 new so far
+  search  29: 'side hustle' (medium, newest) -> 49/49 new | 1282 new so far
+  search  30: 'side hustle' (long, newest) -> 49/49 new | 1331 new so far
+  search  31: 'make money online' (medium, newest) -> 49/49 new | 1380 new so far
+  search  32: 'make money online' (long, newest) -> 37/42 new | 1417 new so far
+  search  33: 'small business tips' (medium, newest) -> 49/49 new | 1466 new so far
+  search  34: 'small business tips' (long, newest) -> 43/49 new | 1509 new so far
+  search  35: 'crypto' (medium, newest) -> 45/45 new | 1554 new so far
+  search  36: 'crypto' (long, newest) -> 43/45 new | 1597 new so far
+  search  37: 'tech review' (medium, newest) -> 50/50 new | 1647 new so far
+  search  38: 'tech review' (long, newest) -> 34/35 new | 1681 new so far
+  search  39: 'smartphone review' (medium, newest) -> 37/47 new | 1718 new so far
+  search  40: 'smartphone review' (long, newest) -> 41/48 new | 1759 new so far
+  search  41: 'pc build' (medium, newest) -> 46/46 new | 1805 new so far
+  search  42: 'pc build' (long, newest) -> 42/42 new | 1847 new so far
+  search  43: 'ai tools' (medium, newest) -> 49/50 new | 1896 new so far
+  search  44: 'ai tools' (long, newest) -> 42/42 new | 1938 new so far
+  search  45: 'productivity apps' (medium, newest) -> 49/49 new | 1987 new so far
+  search  46: 'productivity apps' (long, newest) -> 40/43 new | 2027 new so far
+  search  47: 'true crime' (medium, newest) -> 47/47 new | 2074 new so far
+  search  48: 'true crime' (long, newest) -> 46/46 new | 2120 new so far
+  search  49: 'horror stories' (medium, newest) -> 47/47 new | 2167 new so far
+  search  50: 'horror stories' (long, newest) -> 42/43 new | 2209 new so far
+  search  51: 'unsolved mysteries' (medium, newest) -> 48/48 new | 2257 new so far
+  search  52: 'unsolved mysteries' (long, newest) -> 43/44 new | 2300 new so far
+  search  53: 'paranormal' (medium, newest) -> 44/44 new | 2344 new so far
+  search  54: 'paranormal' (long, newest) -> 37/40 new | 2381 new so far
+  search  55: 'scary stories' (medium, newest) -> 30/37 new | 2411 new so far
+  search  56: 'scary stories' (long, newest) -> 20/39 new | 2431 new so far
+  search  57: 'history documentary' (medium, newest) -> 49/49 new | 2480 new so far
+  search  58: 'history documentary' (long, newest) -> 45/47 new | 2525 new so far
+  search  59: 'science explained' (medium, newest) -> 47/47 new | 2572 new so far
+  search  60: 'science explained' (long, newest) -> 48/50 new | 2620 new so far
+  search  61: 'language learning' (medium, newest) -> 40/40 new | 2660 new so far
+  search  62: 'language learning' (long, newest) -> 46/46 new | 2706 new so far
+  search  63: 'geography facts' (medium, newest) -> 46/46 new | 2752 new so far
+  search  64: 'geography facts' (long, newest) -> 46/47 new | 2798 new so far
+  search  65: 'psychology' (medium, newest) -> 48/50 new | 2846 new so far
+  search  66: 'psychology' (long, newest) -> 50/50 new | 2896 new so far
+  search  67: 'self improvement' (medium, newest) -> 48/48 new | 2944 new so far
+  search  68: 'self improvement' (long, newest) -> 48/49 new | 2992 new so far
+  search  69: 'productivity tips' (medium, newest) -> 47/48 new | 3039 new so far
+  search  70: 'productivity tips' (long, newest) -> 41/45 new | 3080 new so far
+  search  71: 'motivation' (medium, newest) -> 45/47 new | 3125 new so far
+  search  72: 'motivation' (long, newest) -> 45/45 new | 3170 new so far
+  search  73: 'study with me' (medium, newest) -> 48/48 new | 3218 new so far
+  search  74: 'study with me' (long, newest) -> 43/44 new | 3261 new so far
+  search  75: 'minimalism' (medium, newest) -> 48/48 new | 3309 new so far
+  search  76: 'minimalism' (long, newest) -> 44/45 new | 3353 new so far
+  search  77: 'fitness workout' (medium, newest) -> 50/50 new | 3403 new so far
+  search  78: 'fitness workout' (long, newest) -> 33/38 new | 3436 new so far
+  search  79: 'bodybuilding' (medium, newest) -> 48/49 new | 3484 new so far
+  search  80: 'bodybuilding' (long, newest) -> 46/47 new | 3530 new so far
+  search  81: 'weight loss journey' (medium, newest) -> 49/49 new | 3579 new so far
+  search  82: 'weight loss journey' (long, newest) -> 40/41 new | 3619 new so far
+  search  83: 'calisthenics' (medium, newest) -> 46/47 new | 3665 new so far
+  search  84: 'calisthenics' (long, newest) -> 38/40 new | 3703 new so far
+  search  85: 'running' (medium, newest) -> 47/48 new | 3750 new so far
+  search  86: 'running' (long, newest) -> 47/48 new | 3797 new so far
+  search  87: 'cooking recipes' (medium, newest) -> 39/39 new | 3836 new so far
+  search  88: 'cooking recipes' (long, newest) -> 35/36 new | 3871 new so far
+  search  89: 'easy dinner recipes' (medium, newest) -> 47/50 new | 3918 new so far
+  search stopped: YouTube says today's search quota is used up
+  3918 of 4050 channels in the results were new (96%)
+  3918 new channels queued
+
+Checking 3918 channels...
+  50/3918 checked | qualified 10 | leads 2 | API units 65
+  100/3918 checked | qualified 20 | leads 5 | API units 114
+  150/3918 checked | qualified 22 | leads 5 | API units 119
+  200/3918 checked | qualified 27 | leads 5 | API units 150
+  250/3918 checked | qualified 35 | leads 11 | API units 179
+  300/3918 checked | qualified 48 | leads 15 | API units 260
+  350/3918 checked | qualified 61 | leads 16 | API units 353
+  400/3918 checked | qualified 77 | leads 21 | API units 444
+  450/3918 checked | qualified 92 | leads 26 | API units 529
+  500/3918 checked | qualified 109 | leads 32 | API units 628
+  550/3918 checked | qualified 122 | leads 37 | API units 697
+  600/3918 checked | qualified 141 | leads 45 | API units 798
+  650/3918 checked | qualified 155 | leads 49 | API units 879
+  700/3918 checked | qualified 162 | leads 52 | API units 912
+  750/3918 checked | qualified 187 | leads 62 | API units 1037
+  800/3918 checked | qualified 214 | leads 71 | API units 1190
+  850/3918 checked | qualified 223 | leads 72 | API units 1253
+  900/3918 checked | qualified 233 | leads 75 | API units 1314
+  950/3918 checked | qualified 237 | leads 75 | API units 1339
+  1000/3918 checked | qualified 245 | leads 78 | API units 1374
+  1050/3918 checked | qualified 251 | leads 79 | API units 1407
+  1100/3918 checked | qualified 259 | leads 80 | API units 1458
+  1150/3918 checked | qualified 272 | leads 81 | API units 1553
+  1200/3918 checked | qualified 279 | leads 82 | API units 1606
+  1250/3918 checked | qualified 292 | leads 86 | API units 1675
+  1300/3918 checked | qualified 307 | leads 91 | API units 1768
+  1350/3918 checked | qualified 322 | leads 96 | API units 1851
+  1400/3918 checked | qualified 333 | leads 100 | API units 1904
+  1450/3918 checked | qualified 347 | leads 103 | API units 1995
+  1500/3918 checked | qualified 356 | leads 104 | API units 2052
+  1550/3918 checked | qualified 379 | leads 110 | API units 2181
+  1600/3918 checked | qualified 393 | leads 113 | API units 2268
+  1650/3918 checked | qualified 403 | leads 117 | API units 2317
+  1700/3918 checked | qualified 415 | leads 122 | API units 2380
+  1750/3918 checked | qualified 426 | leads 126 | API units 2433
+  1800/3918 checked | qualified 434 | leads 129 | API units 2480
+  1850/3918 checked | qualified 447 | leads 131 | API units 2565
+  1900/3918 checked | qualified 454 | leads 131 | API units 2610
+  1950/3918 checked | qualified 465 | leads 134 | API units 2683
+  2000/3918 checked | qualified 473 | leads 135 | API units 2740
+  2050/3918 checked | qualified 485 | leads 138 | API units 2813
+  2100/3918 checked | qualified 501 | leads 143 | API units 2886
+  2150/3918 checked | qualified 515 | leads 149 | API units 2953
+  2200/3918 checked | qualified 526 | leads 153 | API units 3000
+  2250/3918 checked | qualified 534 | leads 157 | API units 3035
+  2300/3918 checked | qualified 546 | leads 158 | API units 3104
+  2350/3918 checked | qualified 561 | leads 163 | API units 3183
+  2400/3918 checked | qualified 568 | leads 166 | API units 3218
+  2450/3918 checked | qualified 577 | leads 169 | API units 3267
+  2500/3918 checked | qualified 582 | leads 169 | API units 3286
+  2550/3918 checked | qualified 582 | leads 169 | API units 3287
+  2600/3918 checked | qualified 590 | leads 169 | API units 3334
+  2650/3918 checked | qualified 596 | leads 171 | API units 3363
+  2700/3918 checked | qualified 613 | leads 171 | API units 3448
+  2750/3918 checked | qualified 618 | leads 171 | API units 3473
+  2800/3918 checked | qualified 629 | leads 172 | API units 3538
+  2850/3918 checked | qualified 644 | leads 178 | API units 3603
+
+API error: videos HTTP 403 forbidden: The request cannot access user rating information. This error may occur because the request is not properly authorized to use the <code>myRating</code> parameter.
+
+============================================================
+Done in 20.9 min | this run: 90 searches, 3676 units | today: 98/98 searches, 3676/9800 units
+Channels qualified: 0 | rejected: 0 | deep-scanned: 0
+New leads with email: 181 | new manual-check channels: 335
+In the 30-day window: 181 leads, 335 manual-check channels
+  -> /home/user/creator-lead-finder/output/leads_2026-11-05_0426.csv
+  -> /home/user/creator-lead-finder/output/manual_check_2026-11-05_0426.csv
+  -> /home/user/creator-lead-finder/output/all_leads.csv
+
+335 channels wait for a manual reveal. Start the helper with:
+  python3 creator_leads.py --review
