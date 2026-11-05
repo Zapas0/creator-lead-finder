@@ -1,0 +1,19 @@
+{
+  "quota_day": "2026-11-04",
+  "emails_total": 181,
+  "channels_checked_total": 2892,
+  "channels_checked_today": 2892,
+  "leads_total": 181,
+  "new_leads_today": 181,
+  "manual_waiting": 335,
+  "searches_used": 98,
+  "units_used": 3676,
+  "search_results_new_pct": "96",
+  "status": "api_error",
+  "pending": 1026,
+  "target": 100000,
+  "emails_file": "output/emails_2026-11-04.csv (181)",
+  "to_reveal_file": "output/to_reveal_2026-11-04.csv (335)",
+  "log": "logs/2026-11-04.log",
+  "finished_at": "2026-11-05T04:47:15Z"
+}
