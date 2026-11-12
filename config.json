@@ -13,7 +13,11 @@
         "valorant",
         "gta",
         "pokemon",
-        "horror game"
+        "horror game",
+        "speedrun",
+        "retro gaming",
+        "elden ring",
+        "stardew valley"
       ],
       "topics": [
         "Video_game_culture",
@@ -47,7 +51,10 @@
         "side hustle",
         "make money online",
         "small business tips",
-        "crypto"
+        "crypto",
+        "dividend investing",
+        "budgeting tips",
+        "personal finance uk"
       ],
       "topics": [
         "Business"
@@ -69,7 +76,9 @@
         "smartphone review",
         "pc build",
         "ai tools",
-        "productivity apps"
+        "productivity apps",
+        "home lab",
+        "smart home setup"
       ],
       "topics": [
         "Technology"
@@ -89,7 +98,10 @@
         "horror stories",
         "unsolved mysteries",
         "paranormal",
-        "scary stories"
+        "scary stories",
+        "cold case",
+        "true crime documentary",
+        "paranormal stories"
       ],
       "topics": [],
       "words": [
@@ -109,7 +121,9 @@
         "science explained",
         "language learning",
         "geography facts",
-        "psychology"
+        "psychology",
+        "history explained",
+        "math tutorial"
       ],
       "topics": [
         "Knowledge"
@@ -130,7 +144,9 @@
         "productivity tips",
         "motivation",
         "study with me",
-        "minimalism"
+        "minimalism",
+        "morning routine",
+        "stoicism"
       ],
       "topics": [],
       "words": [
@@ -148,7 +164,10 @@
         "bodybuilding",
         "weight loss journey",
         "calisthenics",
-        "running"
+        "running",
+        "running training",
+        "home workout",
+        "powerlifting"
       ],
       "topics": [
         "Physical_fitness",
@@ -170,7 +189,11 @@
         "easy dinner recipes",
         "baking",
         "bbq",
-        "food review"
+        "food review",
+        "sourdough baking",
+        "bbq smoking",
+        "meal prep",
+        "vegan recipes"
       ],
       "topics": [
         "Food"
@@ -192,7 +215,8 @@
         "travel vlog",
         "van life",
         "rv living",
-        "solo travel"
+        "solo travel",
+        "travel vlog europe"
       ],
       "topics": [
         "Tourism"
@@ -213,7 +237,10 @@
         "fishing",
         "hunting",
         "hiking",
-        "bushcraft"
+        "bushcraft",
+        "fly fishing",
+        "backpacking trip",
+        "overlanding"
       ],
       "topics": [],
       "words": [
@@ -256,7 +283,11 @@
         "woodworking",
         "gardening",
         "homesteading",
-        "tiny house"
+        "tiny house",
+        "woodworking project",
+        "home renovation",
+        "tiny house build",
+        "garden makeover"
       ],
       "topics": [],
       "words": [
@@ -276,7 +307,9 @@
         "music production",
         "photography tips",
         "animation",
-        "video editing tutorial"
+        "video editing tutorial",
+        "watercolor painting",
+        "digital art process"
       ],
       "topics": [
         "Music"
@@ -321,7 +354,10 @@
         "nba analysis",
         "nfl breakdown",
         "soccer analysis",
-        "golf tips"
+        "golf tips",
+        "football analysis",
+        "basketball training",
+        "climbing"
       ],
       "topics": [
         "Sport",
@@ -352,7 +388,9 @@
       "search": [
         "podcast",
         "interview podcast",
-        "comedy podcast"
+        "comedy podcast",
+        "business podcast",
+        "history podcast"
       ],
       "topics": [],
       "words": [
@@ -366,7 +404,9 @@
         "makeup tutorial",
         "skincare routine",
         "fashion haul",
-        "hair tutorial"
+        "hair tutorial",
+        "thrift haul",
+        "mens fashion"
       ],
       "topics": [
         "Fashion",
@@ -386,7 +426,9 @@
         "dog training",
         "cat vlog",
         "aquarium",
-        "reptiles"
+        "reptiles",
+        "aquarium setup",
+        "backyard chickens"
       ],
       "topics": [
         "Pet"
