@@ -38,6 +38,7 @@ and it is saved straight into your leads files. About 10 seconds per channel.
 import argparse
 import csv
 import hashlib
+import http.client
 import json
 import os
 import re
@@ -489,7 +490,8 @@ class YouTubeAPI:
                 if e.code == 404:
                     return {"items": []}
                 raise ApiError(f"{method} HTTP {e.code} {reason}: {message}")
-            except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            except (urllib.error.URLError, TimeoutError, ConnectionError, http.client.HTTPException) as e:
+                # HTTPException covers IncompleteRead (truncated response) and RemoteDisconnected.
                 last = e
                 time.sleep(2 ** attempt)
         raise ApiError(f"{method}: failed after retries ({last})")
