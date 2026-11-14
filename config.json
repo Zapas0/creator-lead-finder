@@ -13,7 +13,10 @@
         "valorant",
         "gta",
         "pokemon",
-        "horror game"
+        "horror game",
+        "retro gaming",
+        "strategy game guide",
+        "speedrun"
       ],
       "topics": [
         "Video_game_culture",
@@ -47,7 +50,9 @@
         "side hustle",
         "make money online",
         "small business tips",
-        "crypto"
+        "crypto",
+        "personal finance tips",
+        "budgeting"
       ],
       "topics": [
         "Business"
@@ -69,7 +74,9 @@
         "smartphone review",
         "pc build",
         "ai tools",
-        "productivity apps"
+        "productivity apps",
+        "home lab",
+        "linux tutorial"
       ],
       "topics": [
         "Technology"
@@ -89,7 +96,10 @@
         "horror stories",
         "unsolved mysteries",
         "paranormal",
-        "scary stories"
+        "scary stories",
+        "true crime case",
+        "cold case documentary",
+        "conspiracy theories explained"
       ],
       "topics": [],
       "words": [
@@ -109,7 +119,8 @@
         "science explained",
         "language learning",
         "geography facts",
-        "psychology"
+        "psychology",
+        "math tutorial"
       ],
       "topics": [
         "Knowledge"
@@ -130,7 +141,9 @@
         "productivity tips",
         "motivation",
         "study with me",
-        "minimalism"
+        "minimalism",
+        "habits",
+        "journaling"
       ],
       "topics": [],
       "words": [
@@ -148,7 +161,9 @@
         "bodybuilding",
         "weight loss journey",
         "calisthenics",
-        "running"
+        "running",
+        "home workout",
+        "yoga for beginners"
       ],
       "topics": [
         "Physical_fitness",
@@ -170,7 +185,10 @@
         "easy dinner recipes",
         "baking",
         "bbq",
-        "food review"
+        "food review",
+        "easy recipes",
+        "meal prep",
+        "street food"
       ],
       "topics": [
         "Food"
@@ -192,7 +210,9 @@
         "travel vlog",
         "van life",
         "rv living",
-        "solo travel"
+        "solo travel",
+        "travel vlog europe",
+        "travel guide"
       ],
       "topics": [
         "Tourism"
@@ -213,7 +233,8 @@
         "fishing",
         "hunting",
         "hiking",
-        "bushcraft"
+        "bushcraft",
+        "overlanding"
       ],
       "topics": [],
       "words": [
@@ -233,7 +254,9 @@
         "car restoration",
         "car detailing",
         "motorcycle vlog",
-        "project car"
+        "project car",
+        "jdm",
+        "truck build"
       ],
       "topics": [
         "Vehicle",
@@ -256,7 +279,9 @@
         "woodworking",
         "gardening",
         "homesteading",
-        "tiny house"
+        "tiny house",
+        "home improvement",
+        "house flipping"
       ],
       "topics": [],
       "words": [
@@ -276,7 +301,8 @@
         "music production",
         "photography tips",
         "animation",
-        "video editing tutorial"
+        "video editing tutorial",
+        "digital art"
       ],
       "topics": [
         "Music"
@@ -297,7 +323,9 @@
         "anime review",
         "commentary drama",
         "reaction video",
-        "comedy sketch"
+        "comedy sketch",
+        "storytime",
+        "pop culture commentary"
       ],
       "topics": [
         "Film",
@@ -321,7 +349,9 @@
         "nba analysis",
         "nfl breakdown",
         "soccer analysis",
-        "golf tips"
+        "golf tips",
+        "fantasy football",
+        "boxing breakdown"
       ],
       "topics": [
         "Sport",
@@ -352,7 +382,10 @@
       "search": [
         "podcast",
         "interview podcast",
-        "comedy podcast"
+        "comedy podcast",
+        "true crime podcast",
+        "business podcast",
+        "sports podcast"
       ],
       "topics": [],
       "words": [
@@ -366,7 +399,9 @@
         "makeup tutorial",
         "skincare routine",
         "fashion haul",
-        "hair tutorial"
+        "hair tutorial",
+        "mens fashion",
+        "nail art"
       ],
       "topics": [
         "Fashion",
@@ -386,7 +421,9 @@
         "dog training",
         "cat vlog",
         "aquarium",
-        "reptiles"
+        "reptiles",
+        "horse vlog",
+        "pet care tips"
       ],
       "topics": [
         "Pet"
