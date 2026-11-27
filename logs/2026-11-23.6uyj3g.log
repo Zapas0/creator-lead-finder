@@ -1,0 +1,520 @@
+
+===== run started 2026-11-24 04:26 UTC =====
+Database: local leads.db is up to date with the state file
+Re-queued 1 channels left unfinished by an interrupted run.
+Niches: gaming, finance, tech, true_crime_mystery, education, self_improvement, fitness, food, travel, outdoors, cars, diy_home, creative, entertainment, sports, podcasts, beauty_fashion, pets
+Quota day 2026-11-23: already used 0/98 searches and 0/9800 units. This run may use 98 searches, 9800 units.
+
+Searching (98 searches)...
+  search   1: 'makeup tutorial' (medium, newest) -> 26/49 new | 26 new so far
+  search   2: 'makeup tutorial' (long, newest) -> 18/43 new | 44 new so far
+  search   3: 'skincare routine' (medium, newest) -> 40/50 new | 84 new so far
+  search   4: 'skincare routine' (long, newest) -> 14/31 new | 98 new so far
+  search   5: 'fashion haul' (medium, newest) -> 9/38 new | 107 new so far
+  search   6: 'fashion haul' (long, newest) -> 8/49 new | 115 new so far
+  search   7: 'hair tutorial' (medium, newest) -> 23/50 new | 138 new so far
+  search   8: 'hair tutorial' (long, newest) -> 14/46 new | 152 new so far
+  search   9: 'dog training' (medium, newest) -> 23/44 new | 175 new so far
+  search  10: 'dog training' (long, newest) -> 4/42 new | 179 new so far
+  search  11: 'cat vlog' (medium, newest) -> 18/50 new | 197 new so far
+  search  12: 'cat vlog' (long, newest) -> 9/37 new | 206 new so far
+  search  13: 'aquarium' (medium, newest) -> 18/49 new | 224 new so far
+  search  14: 'aquarium' (long, newest) -> 12/49 new | 236 new so far
+  search  15: 'reptiles' (medium, newest) -> 22/47 new | 258 new so far
+  search  16: 'reptiles' (long, newest) -> 8/47 new | 266 new so far
+  search  17: 'minecraft' (medium, before 2026-11-03) -> 6/47 new | 272 new so far
+  search  18: 'roblox' (medium, before 2026-11-02) -> 18/46 new | 290 new so far
+  search  19: 'fortnite' (medium, before 2026-11-01) -> 5/49 new | 295 new so far
+  search  20: 'gaming commentary' (medium, before 2026-09-19) -> 0/5 new | 295 new so far | walk finished
+  search  21: 'indie game review' (medium, before 2026-10-25) -> 0/42 new | 295 new so far
+  search  22: 'call of duty' (medium, before 2026-11-02) -> 9/46 new | 304 new so far
+  search  23: 'valorant' (medium, before 2026-11-01) -> 3/46 new | 307 new so far
+  search  24: 'gta' (medium, before 2026-11-01) -> 7/50 new | 314 new so far
+  search  25: 'pokemon' (medium, before 2026-11-02) -> 7/48 new | 321 new so far
+  search  26: 'horror game' (medium, before 2026-11-03) -> 7/48 new | 328 new so far
+  search  27: 'personal finance' (medium, before 2026-11-03) -> 3/48 new | 331 new so far
+  search  28: 'personal finance' (long, before 2026-11-01) -> 6/45 new | 337 new so far
+  search  29: 'investing for beginners' (long, before 2026-10-27) -> 1/48 new | 338 new so far
+  search  30: 'side hustle' (medium, before 2026-11-03) -> 0/49 new | 338 new so far
+  search  31: 'side hustle' (long, before 2026-11-02) -> 0/50 new | 338 new so far
+  search  32: 'make money online' (medium, before 2026-11-03) -> 4/49 new | 342 new so far
+  search  33: 'small business tips' (medium, before 2026-11-02) -> 3/46 new | 345 new so far
+  search  34: 'crypto' (medium, before 2026-11-03) -> 6/45 new | 351 new so far
+  search  35: 'tech review' (medium, before 2026-10-31) -> 5/45 new | 356 new so far
+  search  36: 'pc build' (medium, before 2026-11-03) -> 2/42 new | 358 new so far
+  search  37: 'pc build' (long, before 2026-11-02) -> 0/46 new | 358 new so far
+  search  38: 'ai tools' (long, before 2026-11-03) -> 4/46 new | 362 new so far
+  search  39: 'productivity apps' (medium, before 2026-10-26) -> 0/48 new | 362 new so far
+  search  40: 'true crime' (medium, before 2026-11-04) -> 4/46 new | 366 new so far
+  search  41: 'true crime' (long, before 2026-10-31) -> 9/45 new | 375 new so far
+  search  42: 'horror stories' (medium, before 2026-11-01) -> 12/45 new | 387 new so far
+  search  43: 'unsolved mysteries' (medium, before 2026-11-03) -> 4/49 new | 391 new so far
+  search  44: 'paranormal' (medium, before 2026-11-01) -> 8/45 new | 399 new so far
+  search  45: 'history documentary' (medium, before 2026-11-04) -> 11/50 new | 410 new so far
+  search  46: 'science explained' (medium, before 2026-11-03) -> 1/48 new | 411 new so far
+  search  47: 'language learning' (medium, before 2026-11-03) -> 1/39 new | 412 new so far
+  search  48: 'language learning' (long, before 2026-11-03) -> 9/48 new | 421 new so far
+  search  49: 'geography facts' (medium, before 2026-11-02) -> 4/44 new | 425 new so far
+  search  50: 'psychology' (long, before 2026-11-03) -> 9/47 new | 434 new so far
+  search  51: 'self improvement' (medium, before 2026-11-03) -> 2/50 new | 436 new so far
+  search  52: 'motivation' (long, before 2026-11-02) -> 7/41 new | 443 new so far
+  search  53: 'study with me' (medium, before 2026-11-04) -> 1/50 new | 444 new so far
+  search  54: 'minimalism' (medium, before 2026-11-01) -> 1/44 new | 445 new so far
+  search  55: 'fitness workout' (medium, before 2026-11-03) -> 9/45 new | 454 new so far
+  search  56: 'weight loss journey' (medium, before 2026-11-04) -> 2/45 new | 456 new so far
+  search  57: 'cooking recipes' (medium, before 2026-11-02) -> 11/46 new | 467 new so far
+  search  58: 'baking' (long, before 2026-11-02) -> 7/47 new | 474 new so far
+  search  59: 'bbq' (medium, before 2026-11-04) -> 1/49 new | 475 new so far
+  search  60: 'food review' (medium, before 2026-11-03) -> 3/49 new | 478 new so far
+  search  61: 'budget travel' (medium, before 2026-11-04) -> 1/50 new | 479 new so far
+  search  62: 'travel vlog' (medium, before 2026-11-05) -> 11/50 new | 490 new so far
+  search  63: 'travel vlog' (long, before 2026-11-03) -> 8/46 new | 498 new so far
+  search  64: 'van life' (medium, before 2026-11-03) -> 3/48 new | 501 new so far
+  search  65: 'camping' (medium, before 2026-11-04) -> 7/47 new | 508 new so far
+  search  66: 'hunting' (medium, before 2026-11-03) -> 9/48 new | 517 new so far
+  search  67: 'car review' (medium, before 2026-11-02) -> 4/40 new | 521 new so far
+  search  68: 'car restoration' (medium, before 2026-11-04) -> 3/48 new | 524 new so far
+  search  69: 'car restoration' (long, before 2026-11-03) -> 0/35 new | 524 new so far
+  search  70: 'car detailing' (medium, before 2026-11-02) -> 1/49 new | 525 new so far
+  search  71: 'diy home renovation' (medium, before 2026-10-25) -> 2/46 new | 527 new so far
+  search  72: 'woodworking' (medium, before 2026-11-03) -> 5/46 new | 532 new so far
+  search  73: 'tiny house' (medium, before 2026-11-04) -> 3/46 new | 535 new so far
+  search  74: 'drawing tutorial' (medium, before 2026-11-04) -> 12/42 new | 547 new so far
+  search  75: 'drawing tutorial' (long, before 2026-11-04) -> 6/42 new | 553 new so far
+  search  76: 'music production' (medium, before 2026-11-04) -> 3/45 new | 556 new so far
+  search  77: 'photography tips' (medium, before 2026-11-01) -> 3/48 new | 559 new so far
+  search  78: 'video editing tutorial' (medium, before 2026-11-03) -> 7/46 new | 566 new so far
+  search  79: 'anime review' (medium, before 2026-11-03) -> 3/39 new | 569 new so far
+  search  80: 'commentary drama' (medium, before 2026-10-14) -> 0/17 new | 569 new so far | walk finished
+  search  81: 'reaction video' (medium, before 2026-11-02) -> 8/48 new | 577 new so far
+  search  82: 'reaction video' (long, before 2026-11-03) -> 13/48 new | 590 new so far
+  search  83: 'comedy sketch' (medium, before 2026-10-29) -> 3/32 new | 593 new so far
+  search  84: 'comedy sketch' (long, before 2026-10-30) -> 2/36 new | 595 new so far
+  search  85: 'nba analysis' (medium, before 2026-11-02) -> 0/36 new | 595 new so far
+  search  86: 'golf tips' (medium, before 2026-10-30) -> 5/47 new | 600 new so far
+  search  87: 'minecraft' (long, before 2026-11-02) -> 10/48 new | 610 new so far
+  search  88: 'investing for beginners' (medium, before 2026-11-03) -> 4/49 new | 614 new so far
+  search  89: 'ai tools' (medium, before 2026-11-04) -> 6/48 new | 620 new so far
+  search  90: 'self improvement' (long, before 2026-11-03) -> 2/43 new | 622 new so far
+  search  91: 'bodybuilding' (medium, before 2026-11-03) -> 2/49 new | 624 new so far
+  search  92: 'bbq' (long, before 2026-11-04) -> 5/48 new | 629 new so far
+  search stopped: YouTube says today's search quota is used up
+  629 of 4137 channels in the results were new (15%)
+  629 new channels queued
+
+Checking 1215 channels...
+  50/1215 checked | qualified 6 | leads 1 | API units 69
+  100/1215 checked | qualified 16 | leads 2 | API units 158
+  150/1215 checked | qualified 22 | leads 4 | API units 205
+  200/1215 checked | qualified 26 | leads 6 | API units 234
+  250/1215 checked | qualified 28 | leads 8 | API units 245
+  300/1215 checked | qualified 35 | leads 11 | API units 298
+  350/1215 checked | qualified 45 | leads 11 | API units 387
+  400/1215 checked | qualified 47 | leads 11 | API units 410
+  450/1215 checked | qualified 49 | leads 12 | API units 421
+  500/1215 checked | qualified 64 | leads 15 | API units 532
+  550/1215 checked | qualified 64 | leads 15 | API units 535
+  600/1215 checked | qualified 67 | leads 16 | API units 550
+  650/1215 checked | qualified 75 | leads 19 | API units 595
+  700/1215 checked | qualified 91 | leads 29 | API units 648
+  750/1215 checked | qualified 101 | leads 33 | API units 699
+  800/1215 checked | qualified 110 | leads 36 | API units 754
+  850/1215 checked | qualified 119 | leads 36 | API units 821
+  900/1215 checked | qualified 131 | leads 38 | API units 878
+  950/1215 checked | qualified 135 | leads 39 | API units 899
+  1000/1215 checked | qualified 138 | leads 39 | API units 920
+  1050/1215 checked | qualified 151 | leads 41 | API units 985
+  1100/1215 checked | qualified 162 | leads 45 | API units 1038
+  1150/1215 checked | qualified 177 | leads 52 | API units 1123
+  1200/1215 checked | qualified 190 | leads 59 | API units 1188
+  1215/1215 checked | qualified 194 | leads 60 | API units 1215
+
+Visiting 42 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [1215/9800 units used]
+  447 new channels from 30 creators
+
+Checking 447 channels...
+  50/447 checked | qualified 0 | leads 71 | API units 1306
+  100/447 checked | qualified 6 | leads 73 | API units 1371
+  150/447 checked | qualified 8 | leads 74 | API units 1386
+  200/447 checked | qualified 8 | leads 74 | API units 1391
+  250/447 checked | qualified 9 | leads 75 | API units 1394
+  300/447 checked | qualified 10 | leads 76 | API units 1397
+  350/447 checked | qualified 12 | leads 76 | API units 1408
+  400/447 checked | qualified 19 | leads 77 | API units 1425
+  447/447 checked | qualified 25 | leads 78 | API units 1464
+
+Visiting 3 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [1464/9800 units used]
+  700 new channels from 30 creators
+
+Checking 700 channels...
+  50/700 checked | qualified 4 | leads 79 | API units 1593
+  100/700 checked | qualified 16 | leads 80 | API units 1680
+  150/700 checked | qualified 27 | leads 80 | API units 1775
+  200/700 checked | qualified 37 | leads 84 | API units 1838
+  250/700 checked | qualified 46 | leads 87 | API units 1903
+  300/700 checked | qualified 60 | leads 93 | API units 2004
+  350/700 checked | qualified 60 | leads 93 | API units 2005
+  400/700 checked | qualified 60 | leads 93 | API units 2006
+  450/700 checked | qualified 66 | leads 93 | API units 2059
+  500/700 checked | qualified 69 | leads 95 | API units 2078
+  550/700 checked | qualified 69 | leads 95 | API units 2081
+  600/700 checked | qualified 70 | leads 95 | API units 2090
+  650/700 checked | qualified 74 | leads 95 | API units 2111
+  700/700 checked | qualified 81 | leads 97 | API units 2174
+
+Visiting 14 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [2174/9800 units used]
+  516 new channels from 30 creators
+
+Checking 516 channels...
+  50/516 checked | qualified 10 | leads 114 | API units 2305
+  100/516 checked | qualified 18 | leads 116 | API units 2370
+  150/516 checked | qualified 33 | leads 122 | API units 2471
+  200/516 checked | qualified 41 | leads 124 | API units 2530
+  250/516 checked | qualified 49 | leads 127 | API units 2589
+  300/516 checked | qualified 55 | leads 128 | API units 2642
+  350/516 checked | qualified 57 | leads 128 | API units 2703
+  400/516 checked | qualified 57 | leads 128 | API units 2704
+  450/516 checked | qualified 58 | leads 129 | API units 2723
+  500/516 checked | qualified 62 | leads 129 | API units 2774
+  516/516 checked | qualified 63 | leads 130 | API units 2779
+
+Visiting 31 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [2779/9800 units used]
+  601 new channels from 30 creators
+
+Checking 601 channels...
+  50/601 checked | qualified 1 | leads 149 | API units 2904
+  100/601 checked | qualified 10 | leads 151 | API units 2993
+  150/601 checked | qualified 15 | leads 152 | API units 3036
+  200/601 checked | qualified 15 | leads 152 | API units 3039
+  250/601 checked | qualified 17 | leads 153 | API units 3066
+  300/601 checked | qualified 17 | leads 153 | API units 3069
+  350/601 checked | qualified 17 | leads 153 | API units 3076
+  400/601 checked | qualified 19 | leads 153 | API units 3105
+  450/601 checked | qualified 25 | leads 155 | API units 3166
+  500/601 checked | qualified 25 | leads 155 | API units 3167
+  550/601 checked | qualified 29 | leads 157 | API units 3216
+  600/601 checked | qualified 29 | leads 157 | API units 3225
+  601/601 checked | qualified 29 | leads 157 | API units 3226
+
+Visiting 9 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [3226/9800 units used]
+  430 new channels from 30 creators
+
+Checking 430 channels...
+  50/430 checked | qualified 0 | leads 162 | API units 3321
+  100/430 checked | qualified 1 | leads 162 | API units 3326
+  150/430 checked | qualified 2 | leads 162 | API units 3339
+  200/430 checked | qualified 12 | leads 165 | API units 3426
+  250/430 checked | qualified 16 | leads 167 | API units 3461
+  300/430 checked | qualified 16 | leads 167 | API units 3466
+  350/430 checked | qualified 22 | leads 167 | API units 3547
+  400/430 checked | qualified 23 | leads 167 | API units 3560
+  430/430 checked | qualified 26 | leads 169 | API units 3583
+
+Visiting 10 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [3583/9800 units used]
+  578 new channels from 30 creators
+
+Checking 578 channels...
+  50/578 checked | qualified 1 | leads 177 | API units 3688
+  100/578 checked | qualified 2 | leads 177 | API units 3715
+  150/578 checked | qualified 7 | leads 177 | API units 3762
+  200/578 checked | qualified 7 | leads 177 | API units 3765
+  250/578 checked | qualified 9 | leads 177 | API units 3796
+  300/578 checked | qualified 14 | leads 177 | API units 3853
+  350/578 checked | qualified 16 | leads 177 | API units 3872
+  400/578 checked | qualified 18 | leads 178 | API units 3883
+  450/578 checked | qualified 21 | leads 179 | API units 3904
+  500/578 checked | qualified 32 | leads 185 | API units 3981
+  550/578 checked | qualified 33 | leads 185 | API units 4002
+  578/578 checked | qualified 36 | leads 186 | API units 4033
+
+Visiting 9 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [4033/9800 units used]
+  901 new channels from 30 creators
+
+Checking 901 channels...
+  50/901 checked | qualified 6 | leads 193 | API units 4162
+  100/901 checked | qualified 9 | leads 194 | API units 4201
+  150/901 checked | qualified 9 | leads 194 | API units 4202
+  200/901 checked | qualified 10 | leads 194 | API units 4221
+  250/901 checked | qualified 14 | leads 194 | API units 4268
+  300/901 checked | qualified 14 | leads 194 | API units 4271
+  350/901 checked | qualified 20 | leads 198 | API units 4324
+  400/901 checked | qualified 21 | leads 198 | API units 4333
+  450/901 checked | qualified 21 | leads 198 | API units 4336
+  500/901 checked | qualified 21 | leads 198 | API units 4339
+  550/901 checked | qualified 24 | leads 199 | API units 4362
+  600/901 checked | qualified 24 | leads 199 | API units 4365
+  650/901 checked | qualified 24 | leads 199 | API units 4368
+  700/901 checked | qualified 32 | leads 202 | API units 4417
+  750/901 checked | qualified 32 | leads 202 | API units 4420
+  800/901 checked | qualified 41 | leads 204 | API units 4505
+  850/901 checked | qualified 45 | leads 204 | API units 4544
+  900/901 checked | qualified 46 | leads 204 | API units 4561
+  901/901 checked | qualified 46 | leads 204 | API units 4562
+
+Visiting 19 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [4562/9800 units used]
+  598 new channels from 30 creators
+
+Checking 598 channels...
+  50/598 checked | qualified 11 | leads 217 | API units 4719
+  100/598 checked | qualified 12 | leads 217 | API units 4732
+  150/598 checked | qualified 21 | leads 221 | API units 4813
+  200/598 checked | qualified 27 | leads 222 | API units 4866
+  250/598 checked | qualified 31 | leads 222 | API units 4903
+  300/598 checked | qualified 32 | leads 222 | API units 4934
+  350/598 checked | qualified 34 | leads 222 | API units 4993
+  400/598 checked | qualified 37 | leads 222 | API units 5022
+  450/598 checked | qualified 37 | leads 222 | API units 5031
+  500/598 checked | qualified 37 | leads 222 | API units 5036
+  550/598 checked | qualified 45 | leads 222 | API units 5103
+  598/598 checked | qualified 56 | leads 225 | API units 5190
+
+Visiting 14 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [5190/9800 units used]
+  541 new channels from 30 creators
+
+Checking 541 channels...
+  50/541 checked | qualified 2 | leads 233 | API units 5289
+  100/541 checked | qualified 7 | leads 234 | API units 5324
+  150/541 checked | qualified 12 | leads 236 | API units 5369
+  200/541 checked | qualified 15 | leads 236 | API units 5398
+  250/541 checked | qualified 22 | leads 241 | API units 5439
+  300/541 checked | qualified 23 | leads 241 | API units 5454
+  350/541 checked | qualified 26 | leads 243 | API units 5467
+  400/541 checked | qualified 34 | leads 247 | API units 5518
+  450/541 checked | qualified 42 | leads 251 | API units 5569
+  500/541 checked | qualified 44 | leads 251 | API units 5600
+  541/541 checked | qualified 44 | leads 251 | API units 5603
+
+Visiting 9 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [5603/9800 units used]
+  636 new channels from 30 creators
+
+Checking 636 channels...
+  50/636 checked | qualified 0 | leads 258 | API units 5694
+  100/636 checked | qualified 2 | leads 258 | API units 5729
+  150/636 checked | qualified 4 | leads 258 | API units 5752
+  200/636 checked | qualified 4 | leads 258 | API units 5753
+  250/636 checked | qualified 5 | leads 258 | API units 5782
+  300/636 checked | qualified 9 | leads 259 | API units 5817
+  350/636 checked | qualified 11 | leads 260 | API units 5832
+  400/636 checked | qualified 13 | leads 262 | API units 5845
+  450/636 checked | qualified 15 | leads 262 | API units 5864
+  500/636 checked | qualified 16 | leads 262 | API units 5875
+  550/636 checked | qualified 16 | leads 262 | API units 5878
+  600/636 checked | qualified 16 | leads 262 | API units 5879
+  636/636 checked | qualified 18 | leads 262 | API units 5906
+
+Visiting 7 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [5906/9800 units used]
+  673 new channels from 30 creators
+
+Checking 673 channels...
+  50/673 checked | qualified 4 | leads 268 | API units 6049
+  100/673 checked | qualified 4 | leads 268 | API units 6058
+  150/673 checked | qualified 6 | leads 268 | API units 6083
+  200/673 checked | qualified 25 | leads 276 | API units 6188
+  250/673 checked | qualified 26 | leads 277 | API units 6193
+  300/673 checked | qualified 26 | leads 277 | API units 6194
+  350/673 checked | qualified 26 | leads 277 | API units 6201
+  400/673 checked | qualified 27 | leads 277 | API units 6210
+  450/673 checked | qualified 27 | leads 277 | API units 6211
+  500/673 checked | qualified 27 | leads 277 | API units 6212
+  550/673 checked | qualified 29 | leads 277 | API units 6251
+  600/673 checked | qualified 30 | leads 277 | API units 6258
+  650/673 checked | qualified 30 | leads 277 | API units 6259
+  673/673 checked | qualified 30 | leads 277 | API units 6260
+
+Visiting 7 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [6260/9800 units used]
+  698 new channels from 30 creators
+
+Checking 698 channels...
+  50/698 checked | qualified 1 | leads 281 | API units 6359
+  100/698 checked | qualified 1 | leads 281 | API units 6362
+  150/698 checked | qualified 1 | leads 281 | API units 6365
+  200/698 checked | qualified 1 | leads 281 | API units 6366
+  250/698 checked | qualified 16 | leads 286 | API units 6467
+  300/698 checked | qualified 16 | leads 286 | API units 6468
+  350/698 checked | qualified 16 | leads 286 | API units 6469
+  400/698 checked | qualified 20 | leads 289 | API units 6484
+  450/698 checked | qualified 24 | leads 290 | API units 6513
+  500/698 checked | qualified 26 | leads 290 | API units 6544
+  550/698 checked | qualified 34 | leads 291 | API units 6621
+  600/698 checked | qualified 39 | leads 292 | API units 6672
+  650/698 checked | qualified 39 | leads 292 | API units 6675
+  698/698 checked | qualified 44 | leads 293 | API units 6734
+
+Visiting 11 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [6734/9800 units used]
+  523 new channels from 30 creators
+
+Checking 523 channels...
+  50/523 checked | qualified 5 | leads 300 | API units 6885
+  100/523 checked | qualified 6 | leads 301 | API units 6888
+  150/523 checked | qualified 11 | leads 303 | API units 6931
+  200/523 checked | qualified 12 | leads 304 | API units 6940
+  250/523 checked | qualified 14 | leads 304 | API units 6959
+  300/523 checked | qualified 14 | leads 304 | API units 6960
+  350/523 checked | qualified 28 | leads 306 | API units 7063
+  400/523 checked | qualified 30 | leads 307 | API units 7090
+  450/523 checked | qualified 30 | leads 307 | API units 7091
+  500/523 checked | qualified 31 | leads 308 | API units 7108
+  523/523 checked | qualified 31 | leads 308 | API units 7109
+
+Visiting 5 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [7109/9800 units used]
+  579 new channels from 30 creators
+
+Checking 579 channels...
+  50/579 checked | qualified 2 | leads 312 | API units 7240
+  100/579 checked | qualified 3 | leads 313 | API units 7251
+  150/579 checked | qualified 10 | leads 317 | API units 7296
+  200/579 checked | qualified 11 | leads 317 | API units 7325
+  250/579 checked | qualified 21 | leads 320 | API units 7386
+  300/579 checked | qualified 28 | leads 320 | API units 7447
+  350/579 checked | qualified 35 | leads 321 | API units 7516
+  400/579 checked | qualified 39 | leads 322 | API units 7555
+  450/579 checked | qualified 41 | leads 322 | API units 7578
+  500/579 checked | qualified 43 | leads 323 | API units 7589
+  550/579 checked | qualified 48 | leads 324 | API units 7644
+  579/579 checked | qualified 48 | leads 324 | API units 7649
+
+Visiting 16 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [7649/9800 units used]
+  731 new channels from 30 creators
+
+Checking 731 channels...
+  50/731 checked | qualified 0 | leads 331 | API units 7744
+  100/731 checked | qualified 5 | leads 333 | API units 7781
+  150/731 checked | qualified 11 | leads 333 | API units 7858
+  200/731 checked | qualified 14 | leads 333 | API units 7897
+  250/731 checked | qualified 14 | leads 333 | API units 7900
+  300/731 checked | qualified 16 | leads 333 | API units 7935
+  350/731 checked | qualified 18 | leads 333 | API units 7948
+  400/731 checked | qualified 19 | leads 333 | API units 7961
+  450/731 checked | qualified 23 | leads 333 | API units 8010
+  500/731 checked | qualified 41 | leads 339 | API units 8151
+  550/731 checked | qualified 47 | leads 340 | API units 8196
+  600/731 checked | qualified 47 | leads 340 | API units 8199
+  650/731 checked | qualified 47 | leads 340 | API units 8200
+  700/731 checked | qualified 53 | leads 345 | API units 8227
+  731/731 checked | qualified 55 | leads 347 | API units 8236
+
+Visiting 19 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [8236/9800 units used]
+  727 new channels from 30 creators
+
+Checking 727 channels...
+  50/727 checked | qualified 15 | leads 364 | API units 8435
+  100/727 checked | qualified 18 | leads 365 | API units 8466
+  150/727 checked | qualified 24 | leads 366 | API units 8515
+  200/727 checked | qualified 24 | leads 366 | API units 8518
+  250/727 checked | qualified 28 | leads 368 | API units 8545
+  300/727 checked | qualified 36 | leads 370 | API units 8596
+  350/727 checked | qualified 37 | leads 371 | API units 8601
+  400/727 checked | qualified 42 | leads 373 | API units 8626
+  450/727 checked | qualified 45 | leads 375 | API units 8639
+  500/727 checked | qualified 46 | leads 375 | API units 8652
+  550/727 checked | qualified 46 | leads 375 | API units 8655
+  600/727 checked | qualified 55 | leads 377 | API units 8730
+  650/727 checked | qualified 58 | leads 377 | API units 8761
+  700/727 checked | qualified 58 | leads 377 | API units 8764
+  727/727 checked | qualified 58 | leads 377 | API units 8765
+
+Visiting 14 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [8765/9800 units used]
+  854 new channels from 30 creators
+
+Checking 854 channels...
+  50/854 checked | qualified 2 | leads 384 | API units 8872
+  100/854 checked | qualified 6 | leads 384 | API units 8919
+  150/854 checked | qualified 13 | leads 386 | API units 8990
+  200/854 checked | qualified 16 | leads 386 | API units 9021
+  250/854 checked | qualified 25 | leads 390 | API units 9078
+  300/854 checked | qualified 26 | leads 390 | API units 9083
+  350/854 checked | qualified 26 | leads 390 | API units 9084
+  400/854 checked | qualified 26 | leads 390 | API units 9085
+  450/854 checked | qualified 28 | leads 390 | API units 9114
+  500/854 checked | qualified 33 | leads 392 | API units 9181
+  550/854 checked | qualified 35 | leads 393 | API units 9198
+  600/854 checked | qualified 38 | leads 395 | API units 9217
+  650/854 checked | qualified 39 | leads 395 | API units 9230
+  700/854 checked | qualified 44 | leads 398 | API units 9279
+  750/854 checked | qualified 44 | leads 398 | API units 9292
+  800/854 checked | qualified 44 | leads 398 | API units 9293
+  850/854 checked | qualified 44 | leads 398 | API units 9294
+  854/854 checked | qualified 44 | leads 398 | API units 9295
+
+Visiting 12 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [9295/9800 units used]
+  694 new channels from 30 creators
+
+Checking 694 channels...
+  50/694 checked | qualified 6 | leads 405 | API units 9436
+  100/694 checked | qualified 8 | leads 405 | API units 9453
+  150/694 checked | qualified 8 | leads 405 | API units 9458
+  200/694 checked | qualified 9 | leads 405 | API units 9471
+  250/694 checked | qualified 11 | leads 405 | API units 9484
+  300/694 checked | qualified 11 | leads 405 | API units 9485
+  350/694 checked | qualified 11 | leads 405 | API units 9486
+  400/694 checked | qualified 14 | leads 406 | API units 9509
+  450/694 checked | qualified 14 | leads 406 | API units 9520
+  500/694 checked | qualified 14 | leads 406 | API units 9521
+  550/694 checked | qualified 16 | leads 406 | API units 9542
+  600/694 checked | qualified 18 | leads 407 | API units 9563
+  650/694 checked | qualified 20 | leads 407 | API units 9586
+  694/694 checked | qualified 20 | leads 407 | API units 9587
+
+Visiting 7 creator websites...
+
+Finding more channels in your niches without search (featured, followed, commenters)... [9587/9800 units used]
+  503 new channels from 30 creators
+
+Checking 503 channels...
+  50/503 checked | qualified 0 | leads 410 | API units 9678
+  100/503 checked | qualified 1 | leads 410 | API units 9689
+  150/503 checked | qualified 7 | leads 415 | API units 9718
+  200/503 checked | qualified 7 | leads 415 | API units 9719
+  250/503 checked | qualified 9 | leads 415 | API units 9760
+  300/503 checked | qualified 12 | leads 415 | API units 9791
+  stopped early: today's unit budget is used up. Unchecked channels stay queued for the next run.
+
+Visiting 2 creator websites...
+
+============================================================
+Done in 38.9 min | this run: 93 searches, 9800 units | today: 98/98 searches, 9800/9800 units
+Channels qualified: 960 | rejected: 11979 | deep-scanned: 653
+New leads with email: 416 | new manual-check channels: 518
+In the 30-day window: 10110 leads, 12936 manual-check channels
+  -> /home/user/creator-lead-finder/output/leads_2026-11-24_0426.csv
+  -> /home/user/creator-lead-finder/output/manual_check_2026-11-24_0426.csv
+  -> /home/user/creator-lead-finder/output/all_leads.csv
+
+12936 channels wait for a manual reveal. Start the helper with:
+  python3 creator_leads.py --review
